@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="16" height="12" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="C:/Users/atillabet/Downloads/tile/Tilesheet-water.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJx1kNsKwjAQRPNcb2CIgqYKGivUS6H18v9/5gQmMIbk4TDJZnazTGOMmYGGOpdzTaNnAZZgDSzYAw9a1vK7pTqwEd3Rm/zaF8CF3qgd6wdyBCdwJkE09Tn2PMBTanHWFfTgJv968bhsH63HWQMYwVTx+Wwf3ekDvpJpzddyTpD3jtmvJFvN1dNnzf8uXnKI3q3kn3K1mb+Uhyvk79hrJdO7/Ddk+2j+6u8lU32rzRzF/yqc013rb8n/BwS6FxE=
+  </data>
+ </layer>
+</map>
